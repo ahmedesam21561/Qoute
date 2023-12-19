@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 900;
+}
+
+p {
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.my_btn:hover {
+    background-color: green;
+}
